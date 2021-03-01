@@ -4,6 +4,10 @@
 ## Live demo
 [https://spotify-clone-dd915.web.app/](https://spotify-clone-dd915.web.app/)
 
+# Features
+- User Authentication
+- [Context API](https://reactjs.org/docs/context.html)
+
 ## How it works
 - Clicking the "Login with Spotify" button will redirect you to login through the [Spotify API](https://developer.spotify.com/documentation/web-api/)
 - Once logged in with your Spotify Account you will be redirected to the "Discover Weekly" page
@@ -14,6 +18,7 @@
 
 ## Built using
 - [React](https://reactjs.org/)
+- [Material UI icons](https://material-ui.com/)
 
 ## Platform
 - [Firebase](https://firebase.google.com/)
