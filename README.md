@@ -1,4 +1,4 @@
-# Spotify UI Clone
+# Spotify Clone
 A Spotify UI clone built using [React](https://reactjs.org/).
 
 ## Live demo
