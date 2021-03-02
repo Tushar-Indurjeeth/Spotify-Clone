@@ -24,4 +24,4 @@ A Spotify UI clone built using [React](https://reactjs.org/).
 - [Firebase](https://firebase.google.com/)
 
 ## License
-Code released under the [MIT LICENSE](https://github.com/Tushar-Indurjeeth/Spotify-Clone/blob/master/LICENSE).
+Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/Spotify-Clone/blob/master/LICENSE).
