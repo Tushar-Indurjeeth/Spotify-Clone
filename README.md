@@ -1,9 +1,6 @@
 # Spotify Clone
 A Spotify UI clone built using [React](https://reactjs.org/).
 
-## Live demo
-[https://spotify-clone-dd915.web.app/](https://spotify-clone-dd915.web.app/)
-
 # Features
 - User Authentication
 - [Context API](https://reactjs.org/docs/context.html)
